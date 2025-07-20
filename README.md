@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**rinufathima160/rinufathima160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+             .--.   _                  ____|RINU FATHIMA|_____________________________________   
+         .---|__| .((\=.              |                                                       |
+      .--|===|--|/    ,(,             |-◈ Mearn Stack Developer
+      |  |===|  |\      y             |-◈-Pursuing MCA
+      |%%|   |  | `.__,'              |-◈-BSC Computer Science Graduate
+      |%%|   |  | /  \\\              |-◈-Linkedlin:http://www.linkedin.com/in/rinu-fathima160         
+      |  |   |  |/|  | \`----_        |                                                               
+      |  |   |  ||\  \  |___.'_       |                                                                                          
+     -|  |   |__||,\  \-+-._.' )_ ____|__________________________________________________________|
+    / |  |   |--|\  \  \     /
+   /  `--^---'--'--`-'---^--'
+   ================================================================================================
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
